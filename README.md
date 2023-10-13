@@ -1,2 +1,2 @@
 # REACT E-COMMERCE UI
-public/assets/image-avatar.png
+public/assets/image-product-1.jpg
