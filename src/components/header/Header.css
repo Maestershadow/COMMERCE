@@ -373,6 +373,10 @@ li>a {
 
 
 @media(max-width: 47.6em) {
+     .cart-div {
+        translate: -70% 18% !important;
+    }
+
     .body-container {
 
         width: auto;
