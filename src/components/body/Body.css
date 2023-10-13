@@ -159,6 +159,7 @@ li>a {
     .flexible-stretch-button {
         display: flex;
         gap: 0;
+        height: 2.5rem;
         border-radius: 10px;
         align-items: center;
         justify-content: space-between;
